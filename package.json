@@ -1,0 +1,26 @@
+{
+  "name": "remilioerc721",
+  "version": "1.0.0",
+  "description": "remilioERC721 is a small implementation of the ERC721 standard, created as part of a learning exercise on Ethereum Improvement Proposals (EIPs). This smart contract allows for the creation, management, and transfer of non-fungible tokens (NFTs) with additional functionality for blacklisting tokens.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChoyV/RemilioERC721.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChoyV/RemilioERC721/issues"
+  },
+  "homepage": "https://github.com/ChoyV/RemilioERC721#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
+    "hardhat": "^2.22.7"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0"
+  }
+}
