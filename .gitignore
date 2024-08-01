@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+
+# Logs
+*.log
+
+# Compiled contract files
+*.json
+
+# Coverage
+coverage/
